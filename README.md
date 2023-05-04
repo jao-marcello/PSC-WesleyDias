@@ -11,5 +11,5 @@ Atividades referentes as aulas de PSC do professor Wesley Dias
  - Pratica 07:
  - Pratica 08:
  - Pratica 09:
- - Pratica 10:
+ 
 
