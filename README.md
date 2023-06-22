@@ -11,5 +11,7 @@ Atividades referentes as aulas de PSC do professor Wesley Dias
  - Pratica 07: https://github.com/jao-marcello/WesleyDias_Pratica07.git
  - Pratica 08: https://github.com/jao-marcello/WesleyDias_Pratica08.git
  - Pratica 09: https://github.com/jao-marcello/WesleyDias_Pratica09.git
+ - Pratica 10: https://github.com/jao-marcello/WesleyDias_Pratica10.git
+ - Pratica 11: https://github.com/jao-marcello/WesleyDias_Pratica11.git
  
 
